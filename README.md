@@ -7,6 +7,7 @@
 
 ##知乎前端外刊评论 webpack傻瓜式教程123
 ###[https://zhuanlan.zhihu.com/p/20367175?refer=frontendmagazine](https://zhuanlan.zhihu.com/p/20367175?refer=FrontendMagazine "教程1")
+###教程1 实在是太多的坑了
 ###[https://zhuanlan.zhihu.com/p/20397902?refer=FrontendMagazine](https://zhuanlan.zhihu.com/p/20397902?refer=FrontendMagazine "教程2")
 ###[https://zhuanlan.zhihu.com/p/20522487?refer=FrontendMagazine](https://zhuanlan.zhihu.com/p/20522487?refer=FrontendMagazine "教程3")
 
